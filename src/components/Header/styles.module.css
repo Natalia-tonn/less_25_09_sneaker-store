@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: #3B3C3D;
+    justify-content: space-between;
+    
+}
+
+.box_left h1{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-left: 250px;
+    margin: 43px;
+}
+
+
+.box_right{
+color: #FFFFFF;
+padding-right: 250px;
+padding: 46px;
+}
+
+.box_right NavLink{
+    gap: 64px;
+}
+.navLink{
+    margin-right: 64px;
+}
